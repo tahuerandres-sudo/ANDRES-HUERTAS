@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Accounting Nouns - Countable \u0026 Uncountable",
+  "description": "Interactive learning app for mastering countable and uncountable nouns in Accounting Management context.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
